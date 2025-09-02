@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="center">🧩 Turning complex problems into elegant, resilient solutions</h2>
+<h3 align="center">🧩 Turning complex problems into elegant, resilient solutions</h3>
 
 ###
 
