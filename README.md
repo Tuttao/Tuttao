@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">- 💡 Software Engineer with strong experience in <strong>AI-powered chatbots</strong> and <strong>full-stack solutions</strong> (React, Python, Node.js).<br><br>- 🏗️ Skilled in <strong>scalable architecture</strong>, <strong>technical mentoring</strong>, and <strong>complex problem-solving</strong>.<br><br>- ⚡ Focused on delivering <strong>performant, user-friendly, and resilient products</strong>.<br><br>- 🤝 Experienced in <strong>technical leadership</strong> and <strong>stakeholder communication</strong>.<br><br>- ❤ Passionate about D&D and ninjas, bringing creativity and strategic thinking into every project.</p>
+<p align="left">- 💡 Software Engineer with strong experience in <strong>AI-powered chatbots</strong> and <strong>full-stack solutions</strong> (React, Python, Node.js).<br>- 🏗️ Skilled in <strong>scalable architecture</strong>, <strong>technical mentoring</strong>, and <strong>complex problem-solving</strong>.<br>- ⚡ Focused on delivering <strong>performant, user-friendly, and resilient products</strong>.<br>- 🤝 Experienced in <strong>technical leadership</strong> and <strong>stakeholder communication</strong>.<br>- ❤ Passionate about D&D and ninjas, bringing creativity and strategic thinking into every project.</p>
 
 ###
 
@@ -90,8 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32" alt="tailwindcss logo"  />
 </div>
 
 ###
