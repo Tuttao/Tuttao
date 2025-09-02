@@ -32,11 +32,11 @@
 
 <br clear="both">
 
-<h2 align="center">Senior Software Engineer | Cloud & Chatbots Specialist</h2>
+<h1 align="center">Senior Software Engineer | Cloud & Chatbots Specialist</h1>
 
 ###
 
-<h4 align="center">🧩 Turning complex problems into elegant, resilient solutions</h4>
+<h2 align="center">🧩 Turning complex problems into elegant, resilient solutions</h2>
 
 ###
 
