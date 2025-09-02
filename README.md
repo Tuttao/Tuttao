@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">- 💡 Software Engineer with strong experience in AI-powered chatbots and full-stack solutions (React, Python, Node.js).<br><br>- 🏗️ Skilled in scalable architecture, technical mentoring, and complex problem-solving.<br><br>- ⚡ Focused on delivering performant, user-friendly, and resilient products.<br><br>- 🤝 Experienced in technical leadership and stakeholder communication.<br><br>- ❤ Passionate about D&D and ninjas, bringing creativity and strategic thinking into every project.</p>
+<p align="left">- 💡 Software Engineer with strong experience in **AI-powered chatbots** and **full-stack solutions** (React, Python, Node.js).<br><br>- 🏗️ Skilled in **scalable architecture**, **technical mentoring**, and **complex problem-solving**.<br><br>- ⚡ Focused on delivering **performant, user-friendly, and resilient products**.<br><br>- 🤝 Experienced in **technical leadership** and **stakeholder communication**.<br><br>- ❤ Passionate about D&D and ninjas, bringing creativity and strategic thinking into every project.</p>
 
 ###
 
