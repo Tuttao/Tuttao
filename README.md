@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<h1 align="center">Senior Software Engineer | Cloud & Chatbots Specialist</h1>
+<h1 align="center">Solutions Engineer | Cloud & Chatbots Specialist</h1>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">- 💡 Software Engineer with strong experience in <strong>AI-powered chatbots</strong> and <strong>full-stack solutions</strong> (React, Python, Node.js).<br>- 🏗️ Skilled in <strong>scalable architecture</strong>, <strong>technical mentoring</strong>, and <strong>complex problem-solving</strong>.<br>- ⚡ Focused on delivering <strong>performant, user-friendly, and resilient products</strong>.<br>- 🤝 Experienced in <strong>technical leadership</strong> and <strong>stakeholder communication</strong>.<br>- ❤ Passionate about D&D and ninjas, bringing creativity and strategic thinking into every project.</p>
+<p align="left">- 💡 Solutions Engineer with strong experience in <strong>AI-powered chatbots</strong> and <strong>integrations</strong>.<br>- 🏗️ Skilled in <strong>scalable architecture</strong>, <strong>technical mentoring</strong>, and <strong>complex problem-solving</strong>.<br>- ⚡ Focused on delivering <strong>performant, user-friendly, and resilient products</strong>.<br>- 🤝 Experienced in <strong>technical leadership</strong> and <strong>stakeholder communication</strong>.<br>- ❤ Passionate about D&D and ninjas, bringing creativity and strategic thinking into every project.</p>
 
 ###
 
