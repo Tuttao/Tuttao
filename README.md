@@ -50,10 +50,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuttao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h3 align="left">🛠 Tech Stack</h3>
@@ -139,5 +135,3 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="32" alt="jenkins logo"  />
 </div>
-
-###
