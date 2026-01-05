@@ -145,9 +145,3 @@
 <h3 align="center">🔥   My Stats</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tuttao&locale=en&mode=weekly&theme=algolia&hide_border=true&border_radius=50&date_format=M%20j%5B,%20Y%5D&order=3" height="180" alt="streak graph"  />
-</div>
-
-###
